@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login dengan tidak memasukkan email atau nomor telepon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3e2fc50-5fe3-4ed7-942e-915ce3450510</testCaseGuid>
+</TestCaseEntity>

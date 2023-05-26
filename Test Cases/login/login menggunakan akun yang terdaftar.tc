@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login menggunakan akun yang terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c953d333-4415-4552-8f03-3ba05295b165</testCaseGuid>
+</TestCaseEntity>

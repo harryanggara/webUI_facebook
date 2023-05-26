@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ikuti Tur Privasi_x78zum5 xdt5ytf x10ci_7470ec</name>
+   <tag></tag>
+   <elementGuidId>17a01957-897b-4c48-9caf-1be769682f2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.x78zum5.xdt5ytf.x10cihs4.x1t2pt76.x1n2onr6.x1ja2u2z</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>03725a02-338a-44dd-a718-c7da0e35d752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x78zum5 xdt5ytf x10cihs4 x1t2pt76 x1n2onr6 x1ja2u2z</value>
+      <webElementGuid>e56844a4-0edb-45c0-93ff-cee75a2d3a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_gh&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x10cihs4 x1t2pt76 x1n2onr6 x1ja2u2z&quot;]</value>
+      <webElementGuid>3076dc3d-2d7e-4a3f-9ac9-6750e0ce1c3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_gh']/div/div/div/div[3]/div/div/div/div[2]</value>
+      <webElementGuid>e818eb4c-ba75-4410-87d4-41c6caf4fdfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ikuti Tur Privasi'])[1]/following::div[11]</value>
+      <webElementGuid>9dffcaa2-8afd-4502-a6a1-0b8d359649da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda mengendalikan cara Anda membagikan sesuatu dengan orang dan aplikasi di Facebook.'])[1]/following::div[17]</value>
+      <webElementGuid>b8672ea5-7ba7-400c-9f00-5e8d4a13b8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]</value>
+      <webElementGuid>505cbcd2-0781-4e3c-a8bb-7461d8df4fa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

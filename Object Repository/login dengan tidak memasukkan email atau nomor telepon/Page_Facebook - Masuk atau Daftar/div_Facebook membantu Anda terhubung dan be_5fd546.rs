@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Facebook membantu Anda terhubung dan be_5fd546</name>
+   <tag></tag>
+   <elementGuidId>f928a25d-c85f-4d13-87a8-aaf4c3be143c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='passContainer']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#passContainer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8419a718-a84a-46c6-b044-b324499d1671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_6luy _55r1 _1kbt</value>
+      <webElementGuid>53260511-ec13-4b17-ad67-d2ef72ec3641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>passContainer</value>
+      <webElementGuid>988b43b4-1491-4525-9c88-2905215dbdf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;passContainer&quot;)</value>
+      <webElementGuid>aa115000-ac1b-4247-9339-997a2b31ebeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='passContainer']</value>
+      <webElementGuid>ff751fee-2b4a-482a-b19a-eddf91aee501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_2_mu']/div/div[2]/div</value>
+      <webElementGuid>77825d63-b2ca-435f-9a48-cd4bba678cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook membantu Anda terhubung dan berbagi dengan orang-orang dalam kehidupan Anda.'])[1]/following::div[7]</value>
+      <webElementGuid>3e99a75b-5766-4875-aa35-13dba42a3057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::div[4]</value>
+      <webElementGuid>6cb0f28f-4bda-4de4-97e4-8945d32c5f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi?'])[1]/preceding::div[5]</value>
+      <webElementGuid>ff1f1552-e3f4-4927-b939-505330d757f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div</value>
+      <webElementGuid>669a52c2-267c-43f6-953f-0c4e7229103c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'passContainer']</value>
+      <webElementGuid>9c1478eb-119b-4bab-b663-e55f18099c3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ikuti Tur Privasi_x78zum5 xdt5ytf x1iyj_4bd449</name>
+   <tag></tag>
+   <elementGuidId>a86565d1-21eb-4963-90b5-d0ae5871df22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_gh']/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14 > div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > div.xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08842003-aaf7-4b01-b7ae-6de46bcf7c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x78zum5 xdt5ytf x1iyjqo2 x1n2onr6</value>
+      <webElementGuid>954e987c-f5b3-4262-83c1-de7488a6e349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_gh&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x10cihs4 x1t2pt76 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x1qjc9v5 xozqiw3 x1q0g3np x1t2pt76 x17upfok&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x1r8uery x1iyjqo2 xs83m0k xeuugli x1qughib x1cy8zhl xozqiw3 x1q0g3np xylbxtu x1t2pt76 xornbnt&quot;]/div[@class=&quot;x9f619 x1ja2u2z xnp8db0 x112wk31 xnjgh8c xxc7z9f x1t2pt76 x1u2d2a2 x6ikm8r x10wlt62 x7wzq59 xxzkxad x1daaz14&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf xedcshv x1t2pt76&quot;]/div[@class=&quot;xb57i2i x1q594ok x5lxg6s x78zum5 xdt5ytf x6ikm8r x1ja2u2z x1pq812k x1rohswg xfk6m8 x1yqm8si xjx87ck x1l7klhg x1iyjqo2 xs83m0k x2lwn1j xx8ngbg xwo3gff x1oyok0e x1odjw0f x1e4zzel x1n2onr6 xq1qtft&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1iyjqo2 x1n2onr6&quot;]</value>
+      <webElementGuid>8fca391c-ce78-47cb-a7bf-fdcbf6d93190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_gh']/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div/div/div</value>
+      <webElementGuid>9f95e876-d44b-405b-8b61-916acca27177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[3]/div/div/div</value>
+      <webElementGuid>6494b6e0-02f7-4903-9ca6-52dd7b2157fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
